@@ -115,12 +115,47 @@ Peers: For their constructive feedback and collaborative efforts.
 Family: For their unwavering encouragement and understanding during the project's completion.
 
 
+## 9. Clone repository
+git clone https://github.com/your-username/personal-finance-tracker.git
+cd personal-finance-tracker/src
 
-9. Summary
+# Run the program
+python finance_tracker.py
+
+
+📋10. How to Run
+Option A: On Windows (Using MinGW and CMD)
+
+Install a C Compiler (MinGW)
+Download and install MinGW, ensuring you include the mingw32-base and mingw-gcc-g++ packages. Add C:\MinGW\bin to your system's PATH so you can run gcc from any directory.
+
+Open Command Prompt
+Press Win + R, type cmd, and press Enter. Navigate to the directory holding your .c file using:
+
+cd C:\path\to\your\file
+
+
+Compile with GCC
+Use the command:
+
+gcc your_program.c -o your_program.exe
+
+
+Run It
+Execute the compiled program by typing:
+
+your_program.exe
+
+Option B: On Linux (Ubuntu / Debian)
+
+Install GCC (if not already installed):
+
+
+
+11. Summary
 
 Use the robust stack-based shunting-yard algorithm to convert common infix expressions into postfix efficiently. Then evaluate the postfix form using another stack for accurate computation. This method is foundational in both theoretical computer science and practical tools such as compilers, calculators, and embedded systems.
 
-🏁 10. Conclusion
+🏁12. Conclusion
 
 The Expression Calculator project successfully demonstrates the conversion of infix expressions to postfix notation and evaluates them efficiently. By utilizing stack data structures, the project showcases fundamental concepts in computer science, including algorithm design and data structure implementation. This project serves as a solid foundation for further exploration into expression parsing and evaluation techniques.
-
