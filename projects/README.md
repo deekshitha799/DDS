@@ -104,7 +104,7 @@ Support for decimals, unary operators, or functions.
 GUI or embedded implementation (e.g., Arduino calculator with keypad and display). 
 Reddit
 
-🧾 Acknowledgments
+🧾 8.Acknowledgments
 
 I would like to express my gratitude to the following:
 
@@ -116,11 +116,11 @@ Family: For their unwavering encouragement and understanding during the project'
 
 
 
-8. Summary
+9. Summary
 
 Use the robust stack-based shunting-yard algorithm to convert common infix expressions into postfix efficiently. Then evaluate the postfix form using another stack for accurate computation. This method is foundational in both theoretical computer science and practical tools such as compilers, calculators, and embedded systems.
 
-🏁 Conclusion
+🏁 10. Conclusion
 
 The Expression Calculator project successfully demonstrates the conversion of infix expressions to postfix notation and evaluates them efficiently. By utilizing stack data structures, the project showcases fundamental concepts in computer science, including algorithm design and data structure implementation. This project serves as a solid foundation for further exploration into expression parsing and evaluation techniques.
 
