@@ -1,6 +1,6 @@
 # 🧮 Expression Calculator in C
 
-## 📄 1. Project Overview
+📌1. Overview
 
 This project implements a *mathematical expression calculator* in C that:
 
